@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydync",
+        "uuid": 19534816,
+        "checksum": "f8qjuw"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
